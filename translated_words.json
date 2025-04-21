@@ -1,0 +1,452 @@
+{
+    "ynet": {
+        "אייטמים": [
+            {
+                "English": "Neuron",
+                "Hebrew": [
+                    "נוירון",
+                    "נוירונים",
+                    "תא עצב",
+                    "תאי עצב"
+                ]
+            },
+            {
+                "English": "Nucleic acid",
+                "Hebrew": [
+                    "חומצת גרעין",
+                    "חומצות גרעין"
+                ]
+            },
+            {
+                "English": "experiment",
+                "Hebrew": [
+                    "ניסוי",
+                    "ניסויים",
+                    "הניסוי"
+                ]
+            },
+            {
+                "English": "viral replication",
+                "Hebrew": [
+                    "שכפול ויראלי",
+                    "שכפול וירוס"
+                ]
+            },
+            {
+                "English": "receptor",
+                "Hebrew": [
+                    "קולטן",
+                    "קולטנים",
+                    "רצפטור",
+                    "רצפטורים"
+                ]
+            },
+            {
+                "English": "peer review",
+                "Hebrew": [
+                    "ביקורת עמיתים",
+                    "הערכת עמיתים",
+                    "שפיט"
+                ]
+            },
+            {
+                "English": "phagocytes ",
+                "Hebrew": [
+                    "תא בולען",
+                    "תא בולעני",
+                    "תאים בולעניים",
+                    "פגוציט",
+                    "פגוציטים"
+                ]
+            },
+            {
+                "English": "lymph nodes",
+                "Hebrew": [
+                    "קשרי לימפה"
+                ]
+            },
+            {
+                "English": "in lab experiment (in vitro)",
+                "Hebrew": [
+                    "ניסוי מעבדה"
+                ]
+            },
+            {
+                "English": "pathogen",
+                "Hebrew": [
+                    "פתוגן",
+                    "פתוגנים"
+                ]
+            },
+            {
+                "English": "mRNA",
+                "Hebrew": [
+                    "רנא שליח",
+                    "mRNA",
+                    "m-rna",
+                    "שליח rna"
+                ]
+            },
+            {
+                "English": "autoimmune",
+                "Hebrew": [
+                    "אוטואימוני",
+                    "מחלות אוטואימוניות"
+                ]
+            },
+            {
+                "English": "pandemic",
+                "Hebrew": [
+                    "פנדמיה"
+                ]
+            }
+        ],
+        "טוקבקים": [
+            {
+                "English": "White blood cells",
+                "Hebrew": [
+                    "תאי דם לבנים",
+                    "תאים לבנים",
+                    "כדוריות לבנות",
+                    "כדוריות דם לבנות"
+                ]
+            },
+            {
+                "English": "Immune system cells",
+                "Hebrew": [
+                    "תא חיסון",
+                    "תאי חיסון",
+                    "תאי מערכת החיסון"
+                ]
+            },
+            {
+                "English": "Cell membrane",
+                "Hebrew": [
+                    "קרום התא"
+                ]
+            },
+            {
+                "English": "Genetic variability",
+                "Hebrew": [
+                    "שונות גנטית",
+                    "שינוי גנטי"
+                ]
+            },
+            {
+                "English": "Center of Disease Prevention",
+                "Hebrew": [
+                    "מרכז למניעת מחלות",
+                    "המרכז למניעת מחלות"
+                ]
+            },
+            {
+                "English": "PCR",
+                "Hebrew": [
+                    "PCR"
+                ]
+            },
+            {
+                "English": "antigen",
+                "Hebrew": [
+                    "נוגדן",
+                    "נוגדנים",
+                    "אנטיגן",
+                    "אנטיגנים"
+                ]
+            },
+            {
+                "English": "receptor",
+                "Hebrew": [
+                    "קולטן",
+                    "קולטנים",
+                    "רצפטור",
+                    "רצפטורים"
+                ]
+            },
+            {
+                "English": "phagocytes ",
+                "Hebrew": [
+                    "תא בולען",
+                    "תא בולעני",
+                    "תאים בולעניים",
+                    "פגוציט",
+                    "פגוציטים"
+                ]
+            },
+            {
+                "English": "reagent",
+                "Hebrew": [
+                    "ריאגנט"
+                ]
+            },
+            {
+                "English": "lymph nodes",
+                "Hebrew": [
+                    "קשרי לימפה"
+                ]
+            },
+            {
+                "English": "peptide",
+                "Hebrew": [
+                    "פפטיד",
+                    "פפטידים"
+                ]
+            },
+            {
+                "English": "mRNA",
+                "Hebrew": [
+                    "רנא שליח",
+                    "mRNA",
+                    "m-rna",
+                    "שליח rna"
+                ]
+            },
+            {
+                "English": "scientific publication",
+                "Hebrew": [
+                    "פרסום מדעי"
+                ]
+            },
+            {
+                "English": "pandemic",
+                "Hebrew": [
+                    "פנדמיה"
+                ]
+            }
+        ]
+    },
+    "kikar": {
+        "אייטמים": [
+            {
+                "English": "PCR",
+                "Hebrew": [
+                    "PCR"
+                ]
+            },
+            {
+                "English": "biology",
+                "Hebrew": [
+                    "ביולוגיה"
+                ]
+            },
+            {
+                "English": "antigen",
+                "Hebrew": [
+                    "נוגדן",
+                    "נוגדנים",
+                    "אנטיגן",
+                    "אנטיגנים"
+                ]
+            },
+            {
+                "English": "saturation",
+                "Hebrew": [
+                    "סטורציה",
+                    "רוויה"
+                ]
+            },
+            {
+                "English": "cell division",
+                "Hebrew": [
+                    "חלוקת תא",
+                    "חלוקה תאית"
+                ]
+            },
+            {
+                "English": "pacemaker",
+                "Hebrew": [
+                    "קוצב לב"
+                ]
+            },
+            {
+                "English": "carrier",
+                "Hebrew": [
+                    "נשא",
+                    "נשאים"
+                ]
+            },
+            {
+                "English": "capillary",
+                "Hebrew": [
+                    "נים",
+                    "נימים"
+                ]
+            },
+            {
+                "English": "vein",
+                "Hebrew": [
+                    "וריד",
+                    "ורידים"
+                ]
+            },
+            {
+                "English": "mRNA",
+                "Hebrew": [
+                    "רנא שליח",
+                    "mRNA",
+                    "m-rna",
+                    "שליח rna"
+                ]
+            },
+            {
+                "English": "pandemic",
+                "Hebrew": [
+                    "פנדמיה"
+                ]
+            }
+        ],
+        "טוקבקים": [
+            {
+                "English": "infectious diseases",
+                "Hebrew": [
+                    "מחלות זיהומיות",
+                    "מחלה זיהומית "
+                ]
+            },
+            {
+                "English": "variant",
+                "Hebrew": [
+                    "וריאנט"
+                ]
+            },
+            {
+                "English": "PCR",
+                "Hebrew": [
+                    "PCR"
+                ]
+            },
+            {
+                "English": "antigen",
+                "Hebrew": [
+                    "נוגדן",
+                    "נוגדנים",
+                    "אנטיגן",
+                    "אנטיגנים"
+                ]
+            },
+            {
+                "English": "saturation",
+                "Hebrew": [
+                    "סטורציה",
+                    "רוויה"
+                ]
+            },
+            {
+                "English": "molecules",
+                "Hebrew": [
+                    "מולקולה",
+                    "מולקולות"
+                ]
+            },
+            {
+                "English": "coagulation",
+                "Hebrew": [
+                    "קרישת דם",
+                    "קריש דם",
+                    "טסיות דם",
+                    "פקקת",
+                    "תסחיף"
+                ]
+            },
+            {
+                "English": "clinical trial",
+                "Hebrew": [
+                    "ניסוי קליני",
+                    "ניסוי בבני אדם"
+                ]
+            },
+            {
+                "English": "genetic engineering",
+                "Hebrew": [
+                    "הנדסה גנטית"
+                ]
+            },
+            {
+                "English": "carrier",
+                "Hebrew": [
+                    "נשא",
+                    "נשאים"
+                ]
+            },
+            {
+                "English": "amino acid",
+                "Hebrew": [
+                    "חומצות אמינו",
+                    "חומצת אמינו"
+                ]
+            },
+            {
+                "English": "genetic modification",
+                "Hebrew": [
+                    "שונות גנטית"
+                ]
+            },
+            {
+                "English": "epidemiology",
+                "Hebrew": [
+                    "אמפדימיולוגיה"
+                ]
+            },
+            {
+                "English": "vein",
+                "Hebrew": [
+                    "וריד",
+                    "ורידים"
+                ]
+            },
+            {
+                "English": "cytokines ",
+                "Hebrew": [
+                    "ציטוקינים"
+                ]
+            },
+            {
+                "English": "genome",
+                "Hebrew": [
+                    "גנום"
+                ]
+            },
+            {
+                "English": "mRNA",
+                "Hebrew": [
+                    "רנא שליח",
+                    "mRNA",
+                    "m-rna",
+                    "שליח rna"
+                ]
+            },
+            {
+                "English": "inactive medicine (placebo)",
+                "Hebrew": [
+                    "פלצבו",
+                    "תרופת דמה",
+                    "תרופה לא פעילה"
+                ]
+            },
+            {
+                "English": "immune storm",
+                "Hebrew": [
+                    "סערה חיסונית"
+                ]
+            },
+            {
+                "English": "test-roy",
+                "Hebrew": [
+                    "האחרון"
+                ]
+            },
+            {
+                "English": "pandemic",
+                "Hebrew": [
+                    "פנדמיה"
+                ]
+            },
+            {
+                "English": "test-roy",
+                "Hebrew": [
+                    "חסידי"
+                ]
+            }
+        ]
+    }
+}
